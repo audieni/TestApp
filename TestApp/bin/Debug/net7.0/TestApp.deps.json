@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TestApp/1.0.0": {
+        "dependencies": {
+          "TestApp.CheckEquality": "1.0.0",
+          "TestApp.CircuitPower": "1.0.0",
+          "TestApp.Sum": "1.0.0"
+        },
+        "runtime": {
+          "TestApp.dll": {}
+        }
+      },
+      "TestApp.CheckEquality/1.0.0": {
+        "runtime": {
+          "TestApp.CheckEquality.dll": {}
+        }
+      },
+      "TestApp.CircuitPower/1.0.0": {
+        "runtime": {
+          "TestApp.CircuitPower.dll": {}
+        }
+      },
+      "TestApp.Sum/1.0.0": {
+        "runtime": {
+          "TestApp.Sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestApp.CheckEquality/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestApp.CircuitPower/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestApp.Sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

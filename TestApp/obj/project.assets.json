@@ -1,0 +1,127 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "TestApp.CheckEquality/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/TestApp.CheckEquality.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestApp.CheckEquality.dll": {}
+        }
+      },
+      "TestApp.CircuitPower/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/TestApp.CircuitPower.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestApp.CircuitPower.dll": {}
+        }
+      },
+      "TestApp.Sum/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/TestApp.Sum.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestApp.Sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestApp.CheckEquality/1.0.0": {
+      "type": "project",
+      "path": "../TestApp.CheckEquality/TestApp.CheckEquality.csproj",
+      "msbuildProject": "../TestApp.CheckEquality/TestApp.CheckEquality.csproj"
+    },
+    "TestApp.CircuitPower/1.0.0": {
+      "type": "project",
+      "path": "../TestApp.CircuitPower/TestApp.CircuitPower.csproj",
+      "msbuildProject": "../TestApp.CircuitPower/TestApp.CircuitPower.csproj"
+    },
+    "TestApp.Sum/1.0.0": {
+      "type": "project",
+      "path": "../TestApp.Sum/TestApp.Sum.csproj",
+      "msbuildProject": "../TestApp.Sum/TestApp.Sum.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "TestApp.CheckEquality >= 1.0.0",
+      "TestApp.CircuitPower >= 1.0.0",
+      "TestApp.Sum >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\audie\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\workspace\\.net\\TestApp\\TestApp\\TestApp.csproj",
+      "projectName": "TestApp",
+      "projectPath": "G:\\workspace\\.net\\TestApp\\TestApp\\TestApp.csproj",
+      "packagesPath": "C:\\Users\\audie\\.nuget\\packages\\",
+      "outputPath": "G:\\workspace\\.net\\TestApp\\TestApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\audie\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "G:\\workspace\\.net\\TestApp\\TestApp.CheckEquality\\TestApp.CheckEquality.csproj": {
+              "projectPath": "G:\\workspace\\.net\\TestApp\\TestApp.CheckEquality\\TestApp.CheckEquality.csproj"
+            },
+            "G:\\workspace\\.net\\TestApp\\TestApp.CircuitPower\\TestApp.CircuitPower.csproj": {
+              "projectPath": "G:\\workspace\\.net\\TestApp\\TestApp.CircuitPower\\TestApp.CircuitPower.csproj"
+            },
+            "G:\\workspace\\.net\\TestApp\\TestApp.Sum\\TestApp.Sum.csproj": {
+              "projectPath": "G:\\workspace\\.net\\TestApp\\TestApp.Sum\\TestApp.Sum.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

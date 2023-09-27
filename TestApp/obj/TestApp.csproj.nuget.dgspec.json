@@ -1,0 +1,230 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\workspace\\.net\\TestApp\\TestApp\\TestApp.csproj": {}
+  },
+  "projects": {
+    "G:\\workspace\\.net\\TestApp\\TestApp.CheckEquality\\TestApp.CheckEquality.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\workspace\\.net\\TestApp\\TestApp.CheckEquality\\TestApp.CheckEquality.csproj",
+        "projectName": "TestApp.CheckEquality",
+        "projectPath": "G:\\workspace\\.net\\TestApp\\TestApp.CheckEquality\\TestApp.CheckEquality.csproj",
+        "packagesPath": "C:\\Users\\audie\\.nuget\\packages\\",
+        "outputPath": "G:\\workspace\\.net\\TestApp\\TestApp.CheckEquality\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\audie\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\workspace\\.net\\TestApp\\TestApp.CircuitPower\\TestApp.CircuitPower.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\workspace\\.net\\TestApp\\TestApp.CircuitPower\\TestApp.CircuitPower.csproj",
+        "projectName": "TestApp.CircuitPower",
+        "projectPath": "G:\\workspace\\.net\\TestApp\\TestApp.CircuitPower\\TestApp.CircuitPower.csproj",
+        "packagesPath": "C:\\Users\\audie\\.nuget\\packages\\",
+        "outputPath": "G:\\workspace\\.net\\TestApp\\TestApp.CircuitPower\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\audie\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\workspace\\.net\\TestApp\\TestApp.Sum\\TestApp.Sum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\workspace\\.net\\TestApp\\TestApp.Sum\\TestApp.Sum.csproj",
+        "projectName": "TestApp.Sum",
+        "projectPath": "G:\\workspace\\.net\\TestApp\\TestApp.Sum\\TestApp.Sum.csproj",
+        "packagesPath": "C:\\Users\\audie\\.nuget\\packages\\",
+        "outputPath": "G:\\workspace\\.net\\TestApp\\TestApp.Sum\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\audie\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\workspace\\.net\\TestApp\\TestApp\\TestApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\workspace\\.net\\TestApp\\TestApp\\TestApp.csproj",
+        "projectName": "TestApp",
+        "projectPath": "G:\\workspace\\.net\\TestApp\\TestApp\\TestApp.csproj",
+        "packagesPath": "C:\\Users\\audie\\.nuget\\packages\\",
+        "outputPath": "G:\\workspace\\.net\\TestApp\\TestApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\audie\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "G:\\workspace\\.net\\TestApp\\TestApp.CheckEquality\\TestApp.CheckEquality.csproj": {
+                "projectPath": "G:\\workspace\\.net\\TestApp\\TestApp.CheckEquality\\TestApp.CheckEquality.csproj"
+              },
+              "G:\\workspace\\.net\\TestApp\\TestApp.CircuitPower\\TestApp.CircuitPower.csproj": {
+                "projectPath": "G:\\workspace\\.net\\TestApp\\TestApp.CircuitPower\\TestApp.CircuitPower.csproj"
+              },
+              "G:\\workspace\\.net\\TestApp\\TestApp.Sum\\TestApp.Sum.csproj": {
+                "projectPath": "G:\\workspace\\.net\\TestApp\\TestApp.Sum\\TestApp.Sum.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

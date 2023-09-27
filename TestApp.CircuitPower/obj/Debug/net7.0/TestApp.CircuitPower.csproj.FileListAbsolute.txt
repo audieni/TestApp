@@ -1,0 +1,15 @@
+G:\workspace\.net\TestApp\TestApp.CircuitPower\bin\Debug\net7.0\TestApp.CircuitPower.exe
+G:\workspace\.net\TestApp\TestApp.CircuitPower\bin\Debug\net7.0\TestApp.CircuitPower.deps.json
+G:\workspace\.net\TestApp\TestApp.CircuitPower\bin\Debug\net7.0\TestApp.CircuitPower.runtimeconfig.json
+G:\workspace\.net\TestApp\TestApp.CircuitPower\bin\Debug\net7.0\TestApp.CircuitPower.dll
+G:\workspace\.net\TestApp\TestApp.CircuitPower\bin\Debug\net7.0\TestApp.CircuitPower.pdb
+G:\workspace\.net\TestApp\TestApp.CircuitPower\obj\Debug\net7.0\TestApp.CircuitPower.csproj.AssemblyReference.cache
+G:\workspace\.net\TestApp\TestApp.CircuitPower\obj\Debug\net7.0\TestApp.CircuitPower.GeneratedMSBuildEditorConfig.editorconfig
+G:\workspace\.net\TestApp\TestApp.CircuitPower\obj\Debug\net7.0\TestApp.CircuitPower.AssemblyInfoInputs.cache
+G:\workspace\.net\TestApp\TestApp.CircuitPower\obj\Debug\net7.0\TestApp.CircuitPower.AssemblyInfo.cs
+G:\workspace\.net\TestApp\TestApp.CircuitPower\obj\Debug\net7.0\TestApp.CircuitPower.csproj.CoreCompileInputs.cache
+G:\workspace\.net\TestApp\TestApp.CircuitPower\obj\Debug\net7.0\TestApp.CircuitPower.dll
+G:\workspace\.net\TestApp\TestApp.CircuitPower\obj\Debug\net7.0\refint\TestApp.CircuitPower.dll
+G:\workspace\.net\TestApp\TestApp.CircuitPower\obj\Debug\net7.0\TestApp.CircuitPower.pdb
+G:\workspace\.net\TestApp\TestApp.CircuitPower\obj\Debug\net7.0\TestApp.CircuitPower.genruntimeconfig.cache
+G:\workspace\.net\TestApp\TestApp.CircuitPower\obj\Debug\net7.0\ref\TestApp.CircuitPower.dll

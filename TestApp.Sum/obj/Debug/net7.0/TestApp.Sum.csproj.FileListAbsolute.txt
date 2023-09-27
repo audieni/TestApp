@@ -1,0 +1,15 @@
+G:\workspace\.net\TestApp\TestApp.Sum\bin\Debug\net7.0\TestApp.Sum.exe
+G:\workspace\.net\TestApp\TestApp.Sum\bin\Debug\net7.0\TestApp.Sum.deps.json
+G:\workspace\.net\TestApp\TestApp.Sum\bin\Debug\net7.0\TestApp.Sum.runtimeconfig.json
+G:\workspace\.net\TestApp\TestApp.Sum\bin\Debug\net7.0\TestApp.Sum.dll
+G:\workspace\.net\TestApp\TestApp.Sum\bin\Debug\net7.0\TestApp.Sum.pdb
+G:\workspace\.net\TestApp\TestApp.Sum\obj\Debug\net7.0\TestApp.Sum.csproj.AssemblyReference.cache
+G:\workspace\.net\TestApp\TestApp.Sum\obj\Debug\net7.0\TestApp.Sum.GeneratedMSBuildEditorConfig.editorconfig
+G:\workspace\.net\TestApp\TestApp.Sum\obj\Debug\net7.0\TestApp.Sum.AssemblyInfoInputs.cache
+G:\workspace\.net\TestApp\TestApp.Sum\obj\Debug\net7.0\TestApp.Sum.AssemblyInfo.cs
+G:\workspace\.net\TestApp\TestApp.Sum\obj\Debug\net7.0\TestApp.Sum.csproj.CoreCompileInputs.cache
+G:\workspace\.net\TestApp\TestApp.Sum\obj\Debug\net7.0\TestApp.Sum.dll
+G:\workspace\.net\TestApp\TestApp.Sum\obj\Debug\net7.0\refint\TestApp.Sum.dll
+G:\workspace\.net\TestApp\TestApp.Sum\obj\Debug\net7.0\TestApp.Sum.pdb
+G:\workspace\.net\TestApp\TestApp.Sum\obj\Debug\net7.0\TestApp.Sum.genruntimeconfig.cache
+G:\workspace\.net\TestApp\TestApp.Sum\obj\Debug\net7.0\ref\TestApp.Sum.dll

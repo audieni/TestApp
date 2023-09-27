@@ -1,0 +1,15 @@
+G:\workspace\.net\TestApp\TestApp.CheckEquality\bin\Debug\net7.0\TestApp.CheckEquality.exe
+G:\workspace\.net\TestApp\TestApp.CheckEquality\bin\Debug\net7.0\TestApp.CheckEquality.deps.json
+G:\workspace\.net\TestApp\TestApp.CheckEquality\bin\Debug\net7.0\TestApp.CheckEquality.runtimeconfig.json
+G:\workspace\.net\TestApp\TestApp.CheckEquality\bin\Debug\net7.0\TestApp.CheckEquality.dll
+G:\workspace\.net\TestApp\TestApp.CheckEquality\bin\Debug\net7.0\TestApp.CheckEquality.pdb
+G:\workspace\.net\TestApp\TestApp.CheckEquality\obj\Debug\net7.0\TestApp.CheckEquality.csproj.AssemblyReference.cache
+G:\workspace\.net\TestApp\TestApp.CheckEquality\obj\Debug\net7.0\TestApp.CheckEquality.GeneratedMSBuildEditorConfig.editorconfig
+G:\workspace\.net\TestApp\TestApp.CheckEquality\obj\Debug\net7.0\TestApp.CheckEquality.AssemblyInfoInputs.cache
+G:\workspace\.net\TestApp\TestApp.CheckEquality\obj\Debug\net7.0\TestApp.CheckEquality.AssemblyInfo.cs
+G:\workspace\.net\TestApp\TestApp.CheckEquality\obj\Debug\net7.0\TestApp.CheckEquality.csproj.CoreCompileInputs.cache
+G:\workspace\.net\TestApp\TestApp.CheckEquality\obj\Debug\net7.0\TestApp.CheckEquality.dll
+G:\workspace\.net\TestApp\TestApp.CheckEquality\obj\Debug\net7.0\refint\TestApp.CheckEquality.dll
+G:\workspace\.net\TestApp\TestApp.CheckEquality\obj\Debug\net7.0\TestApp.CheckEquality.pdb
+G:\workspace\.net\TestApp\TestApp.CheckEquality\obj\Debug\net7.0\TestApp.CheckEquality.genruntimeconfig.cache
+G:\workspace\.net\TestApp\TestApp.CheckEquality\obj\Debug\net7.0\ref\TestApp.CheckEquality.dll

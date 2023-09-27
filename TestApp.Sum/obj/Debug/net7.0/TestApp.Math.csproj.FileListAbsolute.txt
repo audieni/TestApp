@@ -1,0 +1,15 @@
+G:\workspace\.net\TestApp\TestApp.Math\bin\Debug\net7.0\TestApp.Math.exe
+G:\workspace\.net\TestApp\TestApp.Math\bin\Debug\net7.0\TestApp.Math.deps.json
+G:\workspace\.net\TestApp\TestApp.Math\bin\Debug\net7.0\TestApp.Math.runtimeconfig.json
+G:\workspace\.net\TestApp\TestApp.Math\bin\Debug\net7.0\TestApp.Math.dll
+G:\workspace\.net\TestApp\TestApp.Math\bin\Debug\net7.0\TestApp.Math.pdb
+G:\workspace\.net\TestApp\TestApp.Math\obj\Debug\net7.0\TestApp.Math.csproj.AssemblyReference.cache
+G:\workspace\.net\TestApp\TestApp.Math\obj\Debug\net7.0\TestApp.Math.GeneratedMSBuildEditorConfig.editorconfig
+G:\workspace\.net\TestApp\TestApp.Math\obj\Debug\net7.0\TestApp.Math.AssemblyInfoInputs.cache
+G:\workspace\.net\TestApp\TestApp.Math\obj\Debug\net7.0\TestApp.Math.AssemblyInfo.cs
+G:\workspace\.net\TestApp\TestApp.Math\obj\Debug\net7.0\TestApp.Math.csproj.CoreCompileInputs.cache
+G:\workspace\.net\TestApp\TestApp.Math\obj\Debug\net7.0\TestApp.Math.dll
+G:\workspace\.net\TestApp\TestApp.Math\obj\Debug\net7.0\refint\TestApp.Math.dll
+G:\workspace\.net\TestApp\TestApp.Math\obj\Debug\net7.0\TestApp.Math.pdb
+G:\workspace\.net\TestApp\TestApp.Math\obj\Debug\net7.0\TestApp.Math.genruntimeconfig.cache
+G:\workspace\.net\TestApp\TestApp.Math\obj\Debug\net7.0\ref\TestApp.Math.dll

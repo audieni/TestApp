@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\TestApp.CheckEquality\TestApp.CheckEquality.csproj" />
+      <ProjectReference Include="..\TestApp.CircuitPower\TestApp.CircuitPower.csproj" />
+      <ProjectReference Include="..\TestApp.Sum\TestApp.Sum.csproj" />
+    </ItemGroup>
+
+</Project>
