@@ -19,14 +19,10 @@ public class Program
         Console.WriteLine("CircuitPower(110, 3) = " + circuitPower.CircuitPower(110, 3));
         Console.WriteLine("CircuitPower(480, 20) = " + circuitPower.CircuitPower(480, 20));
         
-        Console.WriteLine(sum);
-        Console.WriteLine(checkEquality);
-        Console.WriteLine(circuitPower);
+        sum = null;
+        checkEquality = null;
+        circuitPower = null;
 
         GC.Collect();
-        
-        Console.WriteLine(sum);
-        Console.WriteLine(checkEquality);
-        Console.WriteLine(circuitPower);
     }
 }
